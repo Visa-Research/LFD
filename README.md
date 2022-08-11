@@ -1,0 +1,2 @@
+# LFD
+Learn from disagreement
