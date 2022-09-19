@@ -54,7 +54,7 @@ _The following explanations use the [Avazu data] (part of day 9 data only) as an
 
 ### LFD Paper
 + [IEEE TVCG link]
-+ [ArXiv link]
++ [arXiv link]
 + Citation: J. Wang, L. Wang, Y. Zheng, C. -C. M. Yeh, S. Jain and W. Zhang, "Learning-From-Disagreement: A Model Comparison and Visual Analytics Framework," in IEEE Transactions on Visualization and Computer Graphics (TVCG), doi: 10.1109/TVCG.2022.3172107.
 
 
@@ -75,6 +75,6 @@ _The following explanations use the [Avazu data] (part of day 9 data only) as an
     
    [LFD]: <https://arxiv.org/abs/2201.07849>
    [Avazu data]: <https://zenodo.org/record/2594012#.YQClSVNKjL4>
-   [ArXiv link]: <https://arxiv.org/abs/2201.07849>
+   [arXiv link]: <https://arxiv.org/abs/2201.07849>
    [IEEE TVCG link]: <https://ieeexplore.ieee.org/document/9767606>
 
